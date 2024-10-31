@@ -19,3 +19,5 @@ Introduction to English Composition- Introduction to English Composition is desi
 Intro to Data Science- Data Science is a set of fundamental principles that guide the extraction of valuable information and knowledge from data. This course provides an overview and develops student’s understanding of the data science and analytics landscape in the context of business examples and other emerging fields. It also provides students with an understanding of the most common methods used in data analysis. Topics covered include introduction to predictive modeling, data visualization, probability distributions, Bayes’ theorem, statistical inference, clustering analysis, decision analytic thinking, data and business strategy, cloud storage and big data analytics.
 
 Introduction to College Reading- The purpose of this course is to afford the student an active role in examining and evaluating his/her own reading style. Focus will also be given to study skills and vocabulary.
+# Badges
+![image](https://github.com/user-attachments/assets/4416ebd8-8ec0-4b01-bd66-36e1f4e8e8cc)
